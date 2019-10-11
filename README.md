@@ -1,4 +1,4 @@
-![Phase One of the MCU](marvel_banner.png "MCU Phase 1")
+![Dog and Cat]("dog_and_cat.jpg" "Dog and Cat")
 
 # All about the MCU
 A retrospective...
