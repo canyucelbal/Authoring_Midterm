@@ -1,24 +1,28 @@
-![Dog and Cat]("https://www.southwestjournal.com/wp-content/uploads/2017/08/shutterstock_229078582.jpg" "Dog and Cat")
+![Dog and Cat](" "Dog and Cat")
 
-# All about the MCU
-A retrospective... yes
 
+<img src="images/debate.png">
+# Cats vs Dogs Debate
+We are shareing our opinions and creating a debate. We are trying to decide which is best: cats or dogs.
 
 
 ## Requirements
-bla bla....
+You can use every browser for that simple website.
+
+You'll need git installed locally, as well as a preprocessor like[SASS](http://sass-lang.com/)
+
 
 
 ## Build with:
-
 <ul>
 	<li>HTML</li>
-	<li>CSS</li>
-	<li>Javascript</li>
 </ul>
 
+<img src="images/html.png">
+
 ## Installation, etc
-CD to te location....
+CD to te location of your choice, and then git clone. Hack away!
+[Git Clone](https://github.com/canyucelbal/Authoring_Midterm.git)
 
 ## Licence
 MIT
