@@ -1,7 +1,7 @@
-![Dog and Cat]("https://storage.googleapis.com/petbacker/images/blog/2017/dog-and-cat-cover.jpg" "Dog and Cat")
+![Dog and Cat]("https://www.southwestjournal.com/wp-content/uploads/2017/08/shutterstock_229078582.jpg" "Dog and Cat")
 
 # All about the MCU
-A retrospective...
+A retrospective... yes
 
 
 
