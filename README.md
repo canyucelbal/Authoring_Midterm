@@ -1,4 +1,4 @@
-![Dog and Cat]("dog_and_cat.jpg" "Dog and Cat")
+![Dog and Cat]("images/dog_and_cat.jpg" "Dog and Cat")
 
 # All about the MCU
 A retrospective...
