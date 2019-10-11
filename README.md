@@ -1,9 +1,9 @@
 ![Dog and Cat](" "Dog and Cat")
 
+# Cats vs Dogs Debate
+We are shareing our opinions and creating a debate. We are trying to decide which is best: cats or dogs?
 
 <img src="images/debate.png">
-# Cats vs Dogs Debate
-We are shareing our opinions and creating a debate. We are trying to decide which is best: cats or dogs.
 
 
 ## Requirements
